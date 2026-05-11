@@ -9,4 +9,15 @@
 6 - удобное использование Telegram бота(можете кастомить под себя с помощью ИИ)
 7 - больше о ботах и Api standoff находится в моем Telegram chanell @Filyatrayder
 8 - для использования бота вам нужная библиотека Astandy(она есть в архиве, не уверен что положил точную версию Astandy но если что пишите поменяю)
-9 - запуск python3 pattern.py
+Запуск обычных паттернов
+```bash
+python3 pattern.py
+```
+Запуск паттернов со стикерами
+```bash
+python3 patternstickers.py
+```
+установка зависимостей(библоитек)
+```bash
+pip install -r requirements.txt
+```
